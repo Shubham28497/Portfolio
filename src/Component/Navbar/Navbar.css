@@ -3,8 +3,14 @@ nav {
   flex-direction: column;
   align-items: center;
   background-color: #fff;
+  padding: 0 20px;
 }
 
 .nav-logo img {
   width: 90px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
 }
