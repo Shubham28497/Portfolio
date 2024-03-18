@@ -32,3 +32,11 @@ background-color: #fcb212;
 color: #fff;
 padding: 5px;
 }
+
+/* media query */
+@media(min-width:768px){
+   nav ul {
+    flex-direction: row;
+   }
+
+}
