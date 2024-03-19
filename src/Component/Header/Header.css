@@ -10,3 +10,18 @@ justify-content: flex-start;
 margin-top: 10px;
 margin-left: 30px;
 }
+.header-content h1{
+    font-size: 4rem;
+    font-family: "Saira", sans-serif;
+}
+.header-content p{
+    font-size: 1.2rem;
+    line-height: 1.9;
+    color: #70667f;
+}
+.fullname{
+    font-size: 3rem;
+    margin-top: 10px;
+    color:#e08804;
+    font-family: "Play", sans-serif;
+}
