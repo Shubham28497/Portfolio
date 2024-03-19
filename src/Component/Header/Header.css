@@ -55,3 +55,15 @@
     color: #d72432;
     font-size: 2rem;
 }
+.profile-img-container{
+    position: relative;
+}
+
+.profile-img-container img{
+    height: 100%;
+    width: 100%;
+    border-bottom: 10px solid #fcd212;
+    border-left: 10px solid #003087;
+    border-radius: 50%;
+    object-fit: cover;
+}
