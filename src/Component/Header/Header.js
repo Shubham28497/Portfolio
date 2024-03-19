@@ -33,6 +33,13 @@ const Header = () => {
           more recently with desktop publishing software like Aldus PageMaker
           including versions of Lorem Ipsum
         </p>
+        <div className="header-payment-container">
+          <button>Hire me</button>
+          <i className="fa-brands fa-paypal"></i>
+          <i className="fa-brands fa-cc-visa"></i>
+          <i className="fa-brands fa-cc-mastercard"></i>
+          <i className="fa-brands fa-cc-amex"></i>
+        </div>
       </div>
     </div>
   );
