@@ -1,10 +1,10 @@
 import React from "react";
 import Typical from "react-typical";
-
+import profileImg from "../../assets/assets/profileImg.png"
 const Header = () => {
   return (
     <div className="header-container">
-      <div className="header-contents">
+      <div className="header-content">
         <h1>Hy! Am</h1>
         <h2 className="fullname">Shubham Gupta</h2>
         <h2>
@@ -40,6 +40,11 @@ const Header = () => {
           <i className="fa-brands fa-cc-mastercard"></i>
           <i className="fa-brands fa-cc-amex"></i>
         </div>
+      </div>
+      <div className="profile-img-container">
+        <img src={profileImg} alt="" />
+        <div className="circle-1"></div>
+        <div className="circle-2"></div>
       </div>
     </div>
   );
