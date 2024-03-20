@@ -17,3 +17,17 @@
   transition: all 0.5s ease;
   cursor: pointer;
 }
+/* Media query */
+
+@media (min-width: 768px) {
+  .works-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .works-item {
+    width: 30%;
+    margin: 10px;
+  }
+}
