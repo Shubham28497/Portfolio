@@ -29,3 +29,9 @@
 .fa-tablet-alt {
   color: #c31f0c;
 }
+.services-desc-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px;
+}
