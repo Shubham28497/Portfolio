@@ -57,12 +57,12 @@
     justify-content: space-between;
   }
   .services-desc-container {
-    width: 40%;
+    width: 80%;
   }
-  .service-item-container {
+  /* .service-item-container {
     width: 60%;
   }
   .services-item {
     width: 80%;
-  }
+  } */
 }
