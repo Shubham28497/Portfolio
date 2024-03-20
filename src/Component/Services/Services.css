@@ -39,3 +39,13 @@
   font-size: 2.5rem;
   color: #fdb448;
 }
+.services-container button {
+  background-color: #fdb448;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  width: 120px;
+  padding: 10px;
+}
