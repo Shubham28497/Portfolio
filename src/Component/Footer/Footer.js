@@ -19,11 +19,11 @@ const Footer = () => {
             <i className="fa-brands fa-facebook-f"></i>
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href="https://www.youtube.com/c/inovotek-academy">
             <i className="fa-brands fa-twitter"></i>
           </a>
-        </li>
+        </li> */}
         {/* <li>
           <a href="https://www.youtube.com/c/inovotek-academy">
             <i className="fa-brands fa-instagram"></i>
